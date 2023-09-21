@@ -18,7 +18,7 @@ switch (figGeometrica) {
         alert("El area del triangulo es igual a" +areaTriangulo);
         break;
 
-    case 1:
+    case 3:
         radio=parseFloat(prompt("Ingrese el radio del circulo"));
         areaCirculo=PI*radio*radio;
         alert("El area del cuadrado es igual a" +areaCirculo);
